@@ -10,7 +10,7 @@ package aptech;
  *
  * @author minhkelly
  */
-public class Test {
+public class test {
 
     /**
      * @param args the command line arguments
