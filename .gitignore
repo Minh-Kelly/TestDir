@@ -49,3 +49,5 @@ nbdist/
 nbactions.xml
 nb-configuration.xml
 .nb-gradle/
+/tet/nbproject/private/
+/Exam/nbproject/private/
